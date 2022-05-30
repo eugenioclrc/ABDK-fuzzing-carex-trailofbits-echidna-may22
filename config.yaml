@@ -1,0 +1,8 @@
+corpusDir: "corpus"
+estimateGas: true
+seqLen: 1
+#filterBlacklist: false
+#filterFunctions: [
+#]
+testLimit: 1000
+testMode: "assertion"
